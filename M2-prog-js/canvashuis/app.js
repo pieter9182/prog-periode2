@@ -85,7 +85,7 @@ class App
         g.fillStyle = "grey";
         randomGetal = Math.random();
         if (randomGetal > 0.2 && randomGetal < 0.6){
-            g.fillStyle = "green";
+            g.fillStyle = "yellow";
         }
         g.moveTo(33,43);
         g.lineTo(35.5,43);
